@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyashsharma66
-- 👀 I’m interested in game development
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning c++ basics
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate with nothing
 - 📫 How to reach me (no need)
 
 <!---
